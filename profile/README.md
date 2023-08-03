@@ -10,9 +10,9 @@ QualiBlock is a community-driven organization dedicated to exploring, developing
 
 Here are some of the key projects currently being developed and maintained by QualiBlock:
 
-1. **Project A**: Brief description of Project A and its goals.
-2. **Project B**: Brief description of Project B and its objectives.
-3. **Project C**: Brief description of Project C and its mission.
+1. **Project #1**: TBA
+2. **Project #2**: TBA
+3. **Project #3**: TBA
 
 ## Contributing
 
