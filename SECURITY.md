@@ -29,4 +29,4 @@ We take security vulnerabilities seriously and encourage the community to report
 
 We appreciate your contributions to our project's security and look forward to working collaboratively to address any vulnerabilities. Your diligence helps make the software ecosystem safer for everyone.
 
-If you have any questions or need further assistance regarding security matters, please contact our security team at qualiblock+github@outlook.com.
+If you have any questions or need further assistance regarding security matters, please contact our security team at [qualiblock@outlook.com](mailto:qualiblock+github@outlook.com).
