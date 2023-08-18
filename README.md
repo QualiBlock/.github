@@ -29,6 +29,6 @@ We expect all contributors, maintainers, and users to adhere to our [Code of Con
 
 ## Contact
 
-If you have any questions, suggestions, or concerns related to QualiBlock or its projects, feel free to reach out to us via email at [contact@qualiblock.org](mailto:contact@qualiblock.org) or join our community on [Discord](https://discord.example).
+If you have any questions, suggestions, or concerns related to QualiBlock or its projects, feel free to reach out to us via email at [qualiblock@outlook.com](mailto:qualiblock+github@outlook.com) or join our community on [Discord](https://discord.example).
 
 Thank you for your interest in QualiBlock, and we look forward to collaborating with you!
