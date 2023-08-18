@@ -1,18 +1,16 @@
-# QualiBlock Organization
+# QualiBlock, LLC
 
-Welcome to the QualiBlock organization on GitHub! This repository houses various projects and resources related to blockchain technology and its applications.
+Welcome to the QualiBlock, LLC on GitHub! This repository houses various projects and resources related to blockchain technology and its applications in relationship to the ideas and innovations behind our technologies.
 
 ## About QualiBlock
 
-QualiBlock is a community-driven organization dedicated to exploring, developing, and promoting innovative solutions in the blockchain space. We aim to foster collaboration, share knowledge, and drive advancements in decentralized technologies.
+QualiBlock is a community-driven company dedicated to exploring, developing, and promoting innovative solutions in the blockchain space. We aim to foster collaboration, share knowledge, and drive advancements in decentralized technologies.
 
 ## Projects
 
 Here are some of the key projects currently being developed and maintained by QualiBlock:
 
-1. **Project #1**: TBA
-2. **Project #2**: TBA
-3. **Project #3**: TBA
+1. **Project #1**: Rebecca
 
 ## Contributing
 
