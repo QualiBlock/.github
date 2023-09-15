@@ -6,32 +6,34 @@ All rights reserved.
 
 ## NOTICE
 
-This software and associated documentation files (the "Software") are the property of QualiBlock, LLC. No part of the Software may be used, copied, modified, merged, published, distributed, sublicensed, sold, or otherwise exploited without the express prior written permission of QualiBlock, LLC.
+This software and accompanying documentation files (collectively referred to as "the Software") are the proprietary property of QualiBlock, LLC. The Software may not be used, copied, modified, merged, published, distributed, sublicensed, sold, or otherwise exploited without the explicit written permission from QualiBlock, LLC.
 
 ## TERMS AND CONDITIONS
 
 ### 0. Definitions
 
-"The Software" refers to the program and related documentation provided by QualiBlock, LLC.
+"The Software" encompasses the programs and related documentation made available by QualiBlock, LLC.
 
 ### 1. No Redistribution
 
-You may not copy, modify, sublicense, distribute, or sell the Software without specific prior written permission from QualiBlock, LLC.
+Redistribution, copying, modification, sublicensing, or sale of the Software is strictly prohibited without prior written consent from QualiBlock, LLC.
 
-### 2. No Derivation
+### 2. No Derivative Works
 
-You may not modify the Software or create derivative works based upon the Software.
+The Software may not be modified or used to create derivative works.
 
 ### 3. No Commercial Use
 
-You may not use the Software for commercial purposes.
+Commercial utilization of the Software is not permitted.
 
-### 4. No Warranty
+### 4. Disclaimer of Warranty
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+The Software is provided "AS IS," without any warranties, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
 ### 5. Limitation of Liability
 
-IN NO EVENT SHALL QUALIBLOCK, LLC BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+IN NO EVENT SHALL QUALIBLOCK, LLC BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITIES, WHETHER ARISING FROM CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, IN CONNECTION WITH THE SOFTWARE OR ITS USE OR OTHER DEALINGS.
 
-If you have any questions about this license, please contact [QualiBlock@outlook.com](mailto:qualiblock+github@outlook.com).
+## Contact Information
+
+For any questions regarding this license, please email us at [legal@qualiblock.tech](mailto:legal@qualiblock.tech).
