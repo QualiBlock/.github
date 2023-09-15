@@ -22,7 +22,7 @@ We pay attention to recent problems in technology:
 
 ## Working Together (Coming Soon)
 
-Once we're established, we'll work with the community to solve technology's latest problems, helping everyone move forward faster.
+Once we're established, we'll work with the community to solve technology's latest problems, helping everyone move forward in technologies and innovations.
 
 ## Our Values
 
@@ -30,6 +30,6 @@ We work with honesty and respect, guided by our [Code of Conduct](CODE_OF_CONDUC
 
 ## Get in Touch
 
-Email us at [QualiBlock@outlook.com](mailto:qualiblock+github@outlook.com) or join our [Discord](https://discord.example).
+Email us at [info@qualiblock.tech](mailto:info+github@qualiblock.tech).
 
 Thank you for your interest in QualiBlock. Join us in pushing boundaries and creating a future where technology works better for everyone and is ready to stage the foundation for those to come.
